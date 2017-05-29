@@ -2,6 +2,7 @@
 
 So far you can:
 
+- open index.html in your browser (uses canvas 2d)
 - right-click to create a square
 - drag that square around
 - make as many squares as you like
